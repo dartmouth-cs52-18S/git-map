@@ -170,9 +170,10 @@
 
   {
     "name": "Yifei Yan",
+    "iconUrl": "images/yy.jpg",
     "url": "//yifeiyan96.me",
-    "message": "Yay, Sunny Tiny Island of Singapore",
-    "lat_long": [1.3521,103.8198],
+    "message": "A blend of rice and pasta",
+    "lat_long": [40.851775,14.268124],
     "year": "'20"
   }
 
