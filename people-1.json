@@ -19,14 +19,14 @@
     "year": "11BC"
   },
   {
-    "name": "Tim",
-    "iconUrl": "images/tim_round.jpg",
-    "url": "//www.zingweb.com",
-    "message": "Hiking in the High Sierras!",
+    "name": "Stephen",
+    "iconUrl": "images/stephen.jpg",
+    "url": "//stephenliao.me",
+    "message": "Craving bubble tea.",
     "lat_long": [
-      37.2320967,
-      -118.8578716
+      39.1031,
+      -84.5120
     ],
-    "year": "11BC"
+    "year": "19"
   }
 ]
