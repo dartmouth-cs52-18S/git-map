@@ -116,4 +116,12 @@
     "year": "'20"
 
   }
+  {
+    "name": "Alex Bailey",
+    "iconUrl": "images/alexb.png",
+    "url": "//alexgbailey.me",
+    "message": "First! Probably not after merge",
+    "lat_long": [42.370930, -71.182832],
+    "year": "'18"
+  }
 ]
